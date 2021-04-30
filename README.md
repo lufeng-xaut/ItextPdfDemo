@@ -3,7 +3,7 @@
 This Project demonstrate how to use Itext to generate PDF file by template file.
  
 generate pdf file step:
-1.add input form to pdf template file
+1.add input form to pdf template file(E.g Adobe Acrobat DC)
 2.put map param to PDFGenerateUtil,and map key must correspond to input form field name
 
 note:
@@ -16,7 +16,7 @@ E.g you use windows font.
 本工程演示itext如何通过模板文件生成PDF文件
 
 生成pdf文件步骤：
-1.为pdf模板文件添加输入表单
+1.为pdf模板文件添加输入表单(例如Adobe Acrobat DC)
 2.给PDFGenerateUtil类传入map参数，参数key要和输入表单字段名对应
 
 注意:
